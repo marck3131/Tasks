@@ -8,7 +8,7 @@ make
 
 ./CPP_task
 
-##Output obtained
+### Output obtained
 
 7  
 ##0##.#  
